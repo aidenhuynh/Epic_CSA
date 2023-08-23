@@ -2,9 +2,32 @@
 toc: true
 comments: true
 layout: post
-title: GitHub Pages
-description: Build your first Blog.  This will help us communicate results.
-type: plans
-courses: { csse: {week: 1}, csp: {week: 1, categories: [4.A]}, csa: {week: 0} }
-categories: [C1.4]
+title: Week 0 Review Ticket
+description: Tools and Setup
+type: review
 ---
+### Journey in Setting Up
+<ul>
+    <li>Fully described in <a href="{{ site.baseurl }}/2023/08/21/Lab_Notebook.html">Lab Notebook for the year</a></li>
+    <li>Summary:</li>
+        <ul>
+            <li>Several errors were encountered in getting Java to run, was fixed through updating</li>
+            <li>Rohan helped me edit <code>head.html</code> to allow for custom styling</li>
+        </ul>
+    <li>
+        <details closed>
+            <summary>Preview:</summary>
+            <img src="{{ site.baseurl }}/images/labnotebook.png">
+        </details>
+    </li>
+    <li>
+        <details closed>
+            <summary>Freeform picture:</summary>
+            <img src="{{ site.baseurl }}/images/bees!.png">
+        </details>
+    </li>
+</ul>
+
+### Technical Accomplishments
+* [Java Testing]({{ site.baseurl }}/2023/08/22/Java_Testing_IPYNB_2_.html)
+* Two variations of "Hello World" and a coin flipping Object.
