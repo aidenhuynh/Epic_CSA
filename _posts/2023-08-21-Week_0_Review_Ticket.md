@@ -5,6 +5,7 @@ layout: post
 title: Week 0 Review Ticket
 description: Tools and Setup
 type: review
+permalink: review_ticket/0
 ---
 ### Journey in Setting Up
 <ul>
