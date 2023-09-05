@@ -14,7 +14,7 @@ NOTEBOOK_FILES := $(wildcard _notebooks/*.ipynb)
 
 # Specify the target directory for the converted Markdown files
 DESTINATION_DIRECTORY = _posts
-MARKDOWN_FILES := $(patsubst _notebooks/%.ipynb,$(DESTINATION_DIRECTORY)/%_IPYNB_2_.md,$(NOTEBOOK_FILES))
+MARKDOWN_FILES := $(patsubst _notebooks/hacks/%.ipynb,$(DESTINATION_DIRECTORY)/%_IPYNB_2_.md,$(NOTEBOOK_FILES))
 
 # Call server, then verify and start logging
 # ...
