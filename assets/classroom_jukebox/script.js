@@ -8,20 +8,61 @@ var playlist = [
         "title":"Monkeys Spinning Monkeys",
         "artist":"Kevin Macleod",
         "cover":"https://i.scdn.co/image/ab67616d0000b2731f81d415360fd941332ff0f8"
+    },
+    {
+        "title":"Really long name, with a space",
+        "artist":"special characters at the end are removed!",
+        "cover":"https://m.media-amazon.com/images/I/519yS6S9DAL.jpg"
+    },
+    {
+        "title":"but, before the *break* is still safe",
+        "artist":"Artist names are also shortened to fit properly",
+        "cover":"https://m.media-amazon.com/images/I/519yS6S9DAL.jpg"
     }
-]
 
-var playlistLen = playlist.length
+]
 
 function changeBG() {
     document.getElementById('bg').src = '{{site.baseurl}}/images/stackoverflow.png'
 }
 
+function lengthCheck(data) {
+    if (data.length <= 18) {
+        return data
+    }
+
+    data = data.slice(0, 18)
+
+    const characters = [
+        " ", "/", ".", ",", "-",
+        "|", "+", "=", ")", "(",
+        "*", "&", "^", '"', "'",
+        ";", ":", "%", "$", "#",
+        "@", "!", "[", "]", "{",
+        "}", "<", ">", "`", "~"
+    ]
+
+    const loops = data.length - 1
+
+    for (let i = loops; i > 0; i --) {
+        if (characters.includes(data[i])) {
+            data = data.slice(0, i)
+            console.log("true")
+        }
+        
+        else {
+            data += "..."
+
+            return data
+        }
+    }
+}
+
 function createPlaylistDiv(index) {
-    var playlistDiv = document.getElementsByClassName('playlist')[0]
-    var item = playlist[index]
+    let playlistDiv = document.getElementsByClassName('playlist')[0]
+    let item = playlist[index]
     
-    var divComponents = {
+    let divComponents = {
         "playlistItem":null,
         "numDiv":null,
         "coverDiv":null,
@@ -31,24 +72,23 @@ function createPlaylistDiv(index) {
     const keys = Object.keys(divComponents)
 
     for (let i = 0; i < keys.length; i ++) {
-        var component = keys[i]
+        let component = keys[i]
 
         divComponents[component] = document.createElement("div")
         divComponents[component].className = component
     }
 
-    var deleteDiv = document.createElement("div")
+    let deleteDiv = document.createElement("div")
     deleteDiv.className = "delete"
 
-    var title = item["title"]
-    const artist = item["artist"]
+    let title = item["title"]
+    let artist = item["artist"]
     const count = document.getElementsByClassName('playlistItem').length
 
     divComponents["songDiv"].title = title + " - " + artist
 
-    if (title.length > 16) {
-        title = title.slice(0, 16) + "..."
-    }
+    title = lengthCheck(title)
+    artist = lengthCheck(artist)
 
     divComponents["numDiv"].innerHTML = count + 1
     divComponents["coverDiv"].innerHTML = "<img src='" + item["cover"] + "'>"
@@ -75,7 +115,7 @@ function createPlaylist() {
 }
 
 function removePlaylistDiv(index) {
-    var items = document.getElementsByClassName('playlistItem')
+    let items = document.getElementsByClassName('playlistItem')
     
     items[index].remove()
 
@@ -102,6 +142,5 @@ function addSong() {
 }
 
 function setSong() {
-    document.getElementById('bg').src = playlist[0]["cover"]
+    document.getElementsByClassName('background')[0].style.backgroundImage.src = playlist[0]["cover"]
 }
-

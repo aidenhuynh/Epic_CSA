@@ -2,11 +2,11 @@
 toc: true
 comments: true
 layout: post
-title: Week 0 Review Ticket
+title: Week 1 Review Ticket
 description: Tools and Setup
 type: review
-permalink: review_ticket/0
-courses: {csa: {week: 0}}
+permalink: review_ticket/1
+courses: {csa: {week: 1}}
 ---
 ### Journey in Setting Up
 <ul>

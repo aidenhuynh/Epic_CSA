@@ -2,11 +2,11 @@
 toc: true
 comments: true
 layout: post
-title: Week 1 Review Ticket
+title: Week 2 Review Ticket
 description: Java & Lab Notebook
 type: review
-permalink: review_ticket/1
-courses: {csa: {week: 1}}
+permalink: review_ticket/2
+courses: {csa: {week: 2}}
 type: review
 ---
 ### Blog Quality

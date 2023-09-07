@@ -29,6 +29,14 @@ div.mediaControls {
 
 div.mediaControls .buttons {
     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.buttons img {
+    height:50%;
+    width:auto;
+    margin: 0 .5em 0 .5em;
 }
 
 div.mediaControls .scrubber {
@@ -88,7 +96,7 @@ div.playlist .coverDiv img {
 }
 
 div.playlist .songDiv {
-    margin-left: 1em;
+    margin-left: 0.6em;
     flex: 12;
 }
 
@@ -122,4 +130,13 @@ div.playlist .delete:hover {
 div.playlist .delete:not(:hover) {
     color: rgb(160, 160, 160);
     transition: color .1s
+}
+
+div.background {
+    backdrop-filter: blur(10px);
+    background-image: src();
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
 }

@@ -2,10 +2,10 @@
 toc: true
 comments: true
 layout: post
-title: Classroom Jukebox
+title: Classroom Jukebox Main
 description: Frontend for CSA project
 type: project
-courses: {csa: {week: 1}}
+courses: {csa: {week: 2}}
 type: tangibles
 ---
 <link rel="stylesheet" href="{{site.baseurl}}/assets/classroom_jukebox/styles.css">
@@ -14,10 +14,14 @@ type: tangibles
 <div class="main">
     <div class="player">
         <div class="songMetaData" id="songMetaData">
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5EWPGh7jbTNO2wakv8LjUI?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+            <div class="background">
+            </div>
         </div>
         <div class="mediaControls">
             <div class="buttons">
+                <img id="back" src="{{site.baseurl}}/images/classroom_jukebox/back.png">
+                <img id="play" src="{{site.baseurl}}/images/classroom_jukebox/play.png">
+                <img id="skip" src="{{site.baseurl}}/images/classroom_jukebox/skip.png">
             </div>
             <div class="scrubber">
             </div>
