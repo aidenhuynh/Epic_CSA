@@ -378,3 +378,8 @@ details body {
 }
 
 details h1, details h2, details h3, details h4, details h5, details h6 { padding-top: 1rem }
+
+details details {
+  width: 80%;
+  margin-left: 1rem
+}

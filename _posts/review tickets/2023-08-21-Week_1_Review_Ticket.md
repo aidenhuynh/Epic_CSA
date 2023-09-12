@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Week 1 Review Ticket
+title: Review Ticket 1
 description: Tools and Setup
 type: review
 permalink: review_ticket/1

@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Week 2 Review Ticket
+title: Review Ticket 2
 description: Java & Lab Notebook
 type: review
 permalink: review_ticket/2

@@ -24,7 +24,7 @@ Load all posts with site
 {%endcomment%}
 
 {% for unit in units %}
-{% assign unitKey = "Unit" | append: unit %}
+{% assign unitKey = "Unit " | append: unit %}
 {% assign unitData = course[unitKey] %}
 <h2>
   {{ unitKey }}: {{ unitData.title }}
@@ -42,7 +42,7 @@ Load all posts with site
   <tr>
     <th>Week</th>
     <th>Plans</th>
-    <th>Hacks(Todo)</th>
+    <th>Hacks</th>
     <th>Tangibles</th>
     <th>Reviews</th>
   </tr>
@@ -127,7 +127,7 @@ Load all posts with site
   <td>
       {% assign units = units | shift %} <!-- remove delimiter -->
     {% else %} <!-- make a link in the column -->
-      - <a href="{{site.baseurl}}/{{units[0]}}">{{units[1]}}</a> <br/> 
+      <a href="{{site.baseurl}}/{{units[0]}}">{{units[1]}}</a> <br/> 
       {% assign units = units | shift | shift %} <!-- remove title and url -->
     {% endif %}
   {% endfor %}

@@ -13,8 +13,8 @@ SHELL = /bin/bash
 NOTEBOOK_FILES := $(wildcard _notebooks/*.ipynb)
 
 # Specify the target directory for the converted Markdown files
-DESTINATION_DIRECTORY = _posts
-MARKDOWN_FILES := $(patsubst _notebooks/hacks/%.ipynb,$(DESTINATION_DIRECTORY)/%_IPYNB_2_.md,$(NOTEBOOK_FILES))
+DESTINATION_DIRECTORY = _posts/hacks
+MARKDOWN_FILES := $(patsubst _notebooks/%.ipynb,$(DESTINATION_DIRECTORY)/%_IPYNB_2_.md,$(NOTEBOOK_FILES))
 
 # Call server, then verify and start logging
 # ...
@@ -73,7 +73,7 @@ $(DESTINATION_DIRECTORY)/%_IPYNB_2_.md: _notebooks/%.ipynb
 # Clean up project derived files, to avoid run issues stop is dependency
 clean: stop
 	@echo "Cleaning converted IPYNB files..."
-	@@rm -f _posts/*_IPYNB_2_.md
+	@@rm -f _posts/hacks/*_IPYNB_2_.md
 	@rm -rf _site
 
 

@@ -1,25 +1,39 @@
 var playlist = [
     {
-        "title":"Carefree",
-        "artist":"Kevin MacLeod",
-        "cover":"https://i.scdn.co/image/ab67616d0000b2733581aa1ca8780d7ee6461551"
+        title: "Sneaky Snitch",
+        artist: "Kevin MacLeod",
+        cover: "https://i.scdn.co/image/ab67616d0000b273ad5ff10a04a737d3ea8ae0f7",
     },
     {
-        "title":"Monkeys Spinning Monkeys",
-        "artist":"Kevin Macleod",
-        "cover":"https://i.scdn.co/image/ab67616d0000b2731f81d415360fd941332ff0f8"
+        title: "Cipher",
+        artist: "Kevin MacLeod",
+        cover: "https://i.scdn.co/image/ab67616d0000b27331dd4699f0ba3a18851f0092",
     },
     {
-        "title":"Really long name, with a space",
-        "artist":"special characters at the end are removed!",
-        "cover":"https://m.media-amazon.com/images/I/519yS6S9DAL.jpg"
+        title: "Fluffing a Duck",
+        artist: "Kevin MacLeod",
+        cover: "https://i.scdn.co/image/ab67616d0000b27339441d79f068f2e65e55eedc",
     },
     {
-        "title":"but, before the *break* is still safe",
-        "artist":"Artist names are also shortened to fit properly",
-        "cover":"https://m.media-amazon.com/images/I/519yS6S9DAL.jpg"
+        title:"Carefree",
+        artist:"Kevin MacLeod",
+        cover:"https://i.scdn.co/image/ab67616d0000b2733581aa1ca8780d7ee6461551"
+    },
+    {
+        title:"Monkeys Spinning Monkeys",
+        artist:"Kevin Macleod",
+        cover:"https://i.scdn.co/image/ab67616d0000b2731f81d415360fd941332ff0f8"
+    },
+    {
+        title:"Really long name, with a space",
+        artist:"special characters at the end are removed!",
+        cover:"https://m.media-amazon.com/images/I/519yS6S9DAL.jpg"
+    },
+    {
+        title:"but, before the *break* is still safe",
+        artist:"Artist names are also shortened to fit properly",
+        cover:"https://m.media-amazon.com/images/I/519yS6S9DAL.jpg"
     }
-
 ]
 
 function changeBG() {
@@ -59,10 +73,10 @@ function lengthCheck(data) {
 }
 
 function createPlaylistDiv(index) {
-    let playlistDiv = document.getElementsByClassName('playlist')[0]
+    var playlistDiv = document.getElementsByClassName('playlist')[0]
     let item = playlist[index]
     
-    let divComponents = {
+    var divComponents = {
         "playlistItem":null,
         "numDiv":null,
         "coverDiv":null,
@@ -72,17 +86,17 @@ function createPlaylistDiv(index) {
     const keys = Object.keys(divComponents)
 
     for (let i = 0; i < keys.length; i ++) {
-        let component = keys[i]
+        var component = keys[i]
 
         divComponents[component] = document.createElement("div")
         divComponents[component].className = component
     }
 
-    let deleteDiv = document.createElement("div")
+    var deleteDiv = document.createElement("div")
     deleteDiv.className = "delete"
 
-    let title = item["title"]
-    let artist = item["artist"]
+    var title = item["title"]
+    var artist = item["artist"]
     const count = document.getElementsByClassName('playlistItem').length
 
     divComponents["songDiv"].title = title + " - " + artist
@@ -133,14 +147,14 @@ function addSong() {
     const cover = document.getElementById('coverInput').value
 
     playlist.push({
-        "title":title,
-        "artist":artist,
-        "cover":cover,
+        title:title,
+        artist:artist,
+        cover:cover,
     })
 
     createPlaylistDiv(playlist.length - 1)
 }
 
 function setSong() {
-    document.getElementsByClassName('background')[0].style.backgroundImage.src = playlist[0]["cover"]
+    document.getElementsByClassName('background')[0].style.backgroundImage.src = playlist[0][cover]
 }

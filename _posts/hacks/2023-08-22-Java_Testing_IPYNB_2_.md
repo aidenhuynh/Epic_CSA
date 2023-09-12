@@ -5,7 +5,6 @@ layout: post
 title: Java Testing
 description: Trying out Java with Hello World
 type: hacks
-courses: {csa: {week: 0}}
 ---
 
 ## Hello World (Adapted Mort Version)

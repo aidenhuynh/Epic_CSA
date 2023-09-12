@@ -10,7 +10,7 @@ import sys
 notebook_directory = "_notebooks"
 
 # Specify the destination directory for the converted Markdown files
-destination_directory = "_posts"
+destination_directory = "_posts/hacks"
 
 def error_cleanup(notebook_file):
     # Remove the destination file if it exists
