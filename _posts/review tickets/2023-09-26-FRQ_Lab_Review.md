@@ -12,13 +12,13 @@ courses: {csa: {week: 5}}
 
 |People|FRQ|Points|Comments|
 |-|-|-|-|
-|Aiden|[2009 #1]({{site.baseurl}}/notebook/2023/09/15/2009_FRQ_IPYNB_2_.html)|0.85|- Didn't go in-depth enough<br>- Well presented|
-|AJ|[2022 #1]({{site.baseurl}}/notebook/2023/09/12/2022FRQ_IPYNB_2_.html)|0.87|- Show understanding<br>- Didn't show code running + talk louder|
-|Ryan|[2022 #2](https://ryanrob327.github.io/CSA/2023/09/14/FRQ_IPYNB_2_.html)|0.90|- Good talking volume<br>- Could have more in-depth descriptions|
-|Edwin|[2022 #3](https://edwinkuttappi.github.io/CSABlog//2023/09/12/FRQ2022-3_IPYNB_2_.html)|0.80|- Didn't seem to have much understanding<br>- Well presented, good volume|
-|Toby|[2022 #3](https://toby-leeder.github.io/CSABlog//2023/09/19/FRQ-03-_IPYNB_2_.html)|0.89|- Talked too much about the code<br>- Good descriptions|
-|Ishi|[2022 #4](https://github.com/Ishi-Singh/AP-CSA/blob/main/_notebooks/2023-09-20-frq1.ipynb)|0.87|- Low volume<br>- Had good descriptions<br>- Needs more explanation on takeaways, etc.|
-|Adi|[2022 #4]({{site.baseurl}}/2023/09/18/sample-frq1_IPYNB_2_.html)|0.85|- Well thought out code<br>- Time yourself (went over time)|
+|Aiden|[2009 #1]({{site.baseurl}}/notebook/2023/09/15/2009_FRQ_IPYNB_2_.html)|0.85/1.00|- Didn't go in-depth enough<br>- Well presented|
+|AJ|[2022 #1]({{site.baseurl}}/notebook/2023/09/12/2022FRQ_IPYNB_2_.html)|0.87/1.00|- Show understanding<br>- Didn't show code running + talk louder|
+|Ryan|[2022 #2](https://ryanrob327.github.io/CSA/2023/09/14/FRQ_IPYNB_2_.html)|0.90/1.00|- Good talking volume<br>- Could have more in-depth descriptions|
+|Edwin|[2022 #3](https://edwinkuttappi.github.io/CSABlog//2023/09/12/FRQ2022-3_IPYNB_2_.html)|0.80/1.00|- Didn't seem to have much understanding<br>- Well presented, good volume|
+|Toby|[2022 #3](https://toby-leeder.github.io/CSABlog//2023/09/19/FRQ-03-_IPYNB_2_.html)|0.89/1.00|- Talked too much about the code<br>- Good descriptions|
+|Ishi|[2022 #4](https://github.com/Ishi-Singh/AP-CSA/blob/main/_notebooks/2023-09-20-frq1.ipynb)|0.87/1.00|- Low volume<br>- Had good descriptions<br>- Needs more explanation on takeaways, etc.|
+|Adi|[2022 #4]({{site.baseurl}}/2023/09/18/sample-frq1_IPYNB_2_.html)|0.85/1.00|- Well thought out code<br>- Time yourself (went over time)|
 
 # Team y2k Coders
 
