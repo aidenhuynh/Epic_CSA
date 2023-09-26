@@ -3,6 +3,7 @@ toc: True
 comments: True
 layout: post
 title: Java Testing
+courses: {'csa': {'week': 0}}
 description: Trying out Java with Hello World
 type: hacks
 ---

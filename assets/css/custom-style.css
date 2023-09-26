@@ -33,22 +33,22 @@ a:hover, a:active { outline: 0; }
 /* Addresses font sizes and margins set differently in IE6/7 Addresses font sizes within 'section' and 'article' in FF4+, Chrome, S5 */
 h1 { font-size: 2em; margin: 0.67em 0; }
 
-h2 { font-size: 1.5em; margin: 0.83em 0; }
+h2 { font-size: 1.7em; margin: 0.83em 0; }
 
-h3 { font-size: 1.17em; margin: 1em 0; }
+h3 { font-size: 1.5em; margin: 1em 0; }
 
-h4 { font-size: 1em; margin: 1.33em 0; }
+h4 { font-size: 1.2em; margin: 1.33em 0; }
 
-h5 { font-size: 0.83em; margin: 1.67em 0; }
+h5 { font-size: 1em; margin: 1.67em 0; }
 
-h6 { font-size: 0.75em; margin: 2.33em 0; }
+h6 { font-size: 0.8em; margin: 2.33em 0; }
 
 /* Addresses styling not present in IE7/8/9, S5, Chrome */
 abbr[title] { border-bottom: 1px dotted; }
 
 /* Addresses style set to 'bolder' in FF3+, S4/5, Chrome
 */
-b, strong { font-weight: bold; }
+b, strong { font-weight: bold; color: #ffffff }
 
 blockquote { margin: 1em 40px; }
 
@@ -216,13 +216,7 @@ p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
 h1, h2, h3 { line-height: 1.1; }
 
-h1 { font-size: 28px; }
-
-h2 { font-size: 24px; }
-
-h4, h5, h6 { color: #e8e8e8; }
-
-h3 { font-size: 18px; line-height: 24px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important; font-weight: normal; color: rgb(0, 255, 170); }
+h4, h5, h6 { color: rgb(0, 255, 170); }
 
 header {
   width: auto;
@@ -246,7 +240,7 @@ section img { max-width: 100%; }
 
 blockquote { border-left: 3px solid #ffcc00; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
-code { font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace; color: #efefef; font-size: 13px; margin: 0 4px; padding: 4px 6px; border-radius: 2px; }
+code { font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace; color: #efefef; font-size: 13px; margin: 0; padding: 0; border-radius: 2px; }
 
 pre { padding: 8px 15px; background: #191919; border-radius: 2px; border: 1px solid #121212; box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3); overflow: auto; overflow-y: hidden; }
 pre code { color: #efefef; text-shadow: 0px 1px 0px #000; margin: 0; padding: 0; }
@@ -382,4 +376,15 @@ details h1, details h2, details h3, details h4, details h5, details h6 { padding
 details details {
   width: 80%;
   margin-left: 1rem
+}
+
+h3 code {
+  color: rgb(0, 255, 170);
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: normal;
+}
+
+a code {
+  color: rgb(149 255 220);
 }
