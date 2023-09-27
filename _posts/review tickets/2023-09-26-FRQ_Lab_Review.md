@@ -14,7 +14,7 @@ courses: {csa: {week: 5}}
 |People|FRQ|Points|Comments|Video|
 |-|-|-|-|-|
 |Aiden|[2009 #1]({{site.baseurl}}/notebook/2023/09/15/2009_FRQ_IPYNB_2_.html)|0.85|- Didn't go in-depth enough<br>- Well presented|[Link](https://drive.google.com/file/d/1pMmmRdQAccVro7rT5irdPZo7I-rktKF4/view?usp=sharing)|
-|AJ|[2022 #1](https://kkcbal.github.io/Asher//tangibles/2023/09/12/2022FRQ_IPYNB_2_.html)|0.87|- Show understanding<br>- Didn't show code running + talk louder|[Link]()|
+|AJ|[2022 #1](https://kkcbal.github.io/Asher//tangibles/2023/09/12/2022FRQ_IPYNB_2_.html)|0.87|- Show understanding<br>- Didn't show code running + talk louder|[Link](https://youtu.be/92TypT5YefI)|
 |Ryan|[2022 #2](https://ryanrob327.github.io/CSA/2023/09/14/FRQ_IPYNB_2_.html)|0.90|- Good talking volume<br>- Could have more in-depth descriptions|[Link](https://www.youtube.com/watch?v=gtYY1xO4bZc)|
 |Edwin|[2022 #3](https://edwinkuttappi.github.io/CSABlog//2023/09/12/FRQ2022-3_IPYNB_2_.html)|0.80|- Didn't seem to have much understanding<br>- Well presented, good volume|[Link](https://drive.google.com/file/d/1CGU0cz1Ds9Z7r__z_xC-JycuWznbygRJ/view?usp=sharing)|
 |Toby|[2022 #3](https://toby-leeder.github.io/CSABlog//2023/09/19/FRQ-03-_IPYNB_2_.html)|0.89|- Talked too much about the code<br>- Good descriptions|[Link](https://drive.google.com/file/d/1CGU0cz1Ds9Z7r__z_xC-JycuWznbygRJ/view?usp=sharing)|
