@@ -42,4 +42,3 @@ type: tangibles
 <input id="coverInput" placeholder="Enter song cover img url">
 <br>
 <button onclick="addSong()">add song</button>
-
