@@ -3,7 +3,7 @@ toc: false
 comments: false
 layout: post
 title: earnest act 1
-permalink: /earnest2
+permalink: /earnest
 ---
 <style>
     td {
