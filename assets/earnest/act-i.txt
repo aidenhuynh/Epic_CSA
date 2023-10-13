@@ -1846,7 +1846,7 @@ Fairfax out.
 
 LANE 
 
-Yes, sir. [JACK and GWENDOLEN go ojf.\ 
+Yes, sir. [JACK and GWENDOLEN go off.]
 [LANE presents several letters on a salver to 
 ALGERNON. It is to be surmised that they are bills, 
 as ALGERNON, after looking at the envelopes, tears 
@@ -1893,7 +1893,7 @@ Lane, you 're a perfect pessimist.
 LANE 
 
 I do my best to give satisfaction, sir. 
-[Enter JACK. LANE goes off.} 
+[Enter JACK. LANE goes off.]
 
 JACK 
 
@@ -1929,6 +1929,6 @@ Nobody ever does.
 
 [JACK looks indignantly at him, and leaves the 
 room. ALGERNON lights a cigarette, reads his shirt- 
-cuff, and smiles. ~\ 
+cuff, and smiles.]
 
 ACT DROP
