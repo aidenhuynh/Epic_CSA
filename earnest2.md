@@ -10,6 +10,10 @@ permalink: /earnest2
         border-bottom: 0;
         vertical-align: top;
     }
+
+    table {
+        white-space: pre;
+    }
 </style>
 
 <table id = "table">
@@ -51,7 +55,7 @@ permalink: /earnest2
         for (let i = 0; i < script.length; i ++) {
             var line = script[i]
 
-            helpme += "\n"
+            helpme += "\n\n"
 
             if (line != "" || line != line.toUpperCase() || line[0] != "[") {
                 helpme += lineCount
