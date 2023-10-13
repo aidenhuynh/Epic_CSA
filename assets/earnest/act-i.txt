@@ -112,7 +112,9 @@ LANE
 
 Mr. Ernest Worthing. 
 
-[Enter JACK.][LANE goes out.']
+[Enter JACK.]
+
+[LANE goes out.']
 
 ALGERNON 
 
@@ -299,7 +301,8 @@ ALGERNON
 My dear fellow, Gwendolen is my first cousin. 
 And before I allow you to marry her, you will 
 have to clear up the whole question of Cecily. 
-[Rings bell} 
+
+[Rings bell]
 
 JACK 
 
@@ -307,7 +310,7 @@ Cecily ! What on earth do you mean ? What
 do you mean, Algy, by Cecily ! I don't know 
 any one of the name of Cecily. 
 
-{Enter LANE.]
+[Enter LANE.]
 
 ALGERNON 
 
@@ -434,7 +437,7 @@ if your name was Ernest. You are the most
 earnest-looking person I ever saw in my life. 
 It is perfectly absurd your saying that your name 
 isn't Ernest It 's on your cards. Here is one 
-of them. [Taking it from case.} 'Mr. Ernest 
+of them. [Taking it from case.] 'Mr. Ernest 
 Worthing, B. 4, The Albany.' I '11 keep this as 
 a proof that your name is Ernest if ever you 
 attempt to deny it to me, or to Gwendolen, or 
@@ -1847,6 +1850,7 @@ Fairfax out.
 LANE 
 
 Yes, sir. [JACK and GWENDOLEN go off.]
+
 [LANE presents several letters on a salver to 
 ALGERNON. It is to be surmised that they are bills, 
 as ALGERNON, after looking at the envelopes, tears 
@@ -1893,6 +1897,7 @@ Lane, you 're a perfect pessimist.
 LANE 
 
 I do my best to give satisfaction, sir. 
+
 [Enter JACK. LANE goes off.]
 
 JACK 
