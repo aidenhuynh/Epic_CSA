@@ -55,11 +55,15 @@ permalink: /earnest2
         for (let i = 0; i < script.length; i ++) {
             var line = script[i]
 
-            helpme += "\n\n"
+            helpme += "\n"
 
             if (line != "" || line != line.toUpperCase() || line[0] != "[") {
                 helpme += lineCount
                 lineCount ++
+            }
+
+            else {
+                helpme += "\n"
             }
         }
 
