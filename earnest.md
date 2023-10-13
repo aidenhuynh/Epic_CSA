@@ -57,8 +57,16 @@ permalink: /earnest
 
             else {
                 lineText = line
-                number = lineCount
-                lineCount ++
+
+                if (line === line.toUpperCase()) {
+                    number = ""
+                }
+                
+                else {
+                    number = lineCount
+                    lineCount ++
+                }
+                
             }
 
             table.innerHTML += "\
