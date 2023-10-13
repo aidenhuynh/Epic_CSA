@@ -1,6 +1,6 @@
 [FIRST ACT ]
 
-[SCENE] 
+[SCENE]
 
 [Morning-room in Algernons fat in Half-Moon Street. 
 The room is luxuriously and artistically famished. 
@@ -8,7 +8,7 @@ The sound of a piano is heard in the adjoining
 room.]
 
 [LANE is arranging afternoon tea on the table, and 
-after the music has ceased, ALGERNON enters.] 
+after the music has ceased, ALGERNON enters.]
 
 ALGERNON 
 
@@ -38,7 +38,7 @@ Bracknell?
 
 LANE 
 
-Yes, sir. [Hands them on a salver.] 
+Yes, sir. [Hands them on a salver.]
 
 ALGERNON 
 
@@ -81,7 +81,7 @@ between myself and a young person.
 
 ALGERNON 
 
-[Languidly.'] I don't know that I am much 
+[Languidly.']I don't know that I am much 
 interested in your family life, Lane. 
 
 LANE 
@@ -96,7 +96,7 @@ thank you.
 
 LANE 
 
-Thank you, sir. [LANE goes out.] 
+Thank you, sir. [LANE goes out.]
 
 ALGERNON 
 
@@ -106,13 +106,13 @@ example, what on earth is the use of them?
 They seem, as a class, to have absolutely no sense 
 of moral responsibility. 
 
-[Enter LANE.] 
+[Enter LANE.]
 
 LANE 
 
 Mr. Ernest Worthing. 
 
-[Enter JACK.] [LANE goes out.'] 
+[Enter JACK.][LANE goes out.']
 
 ALGERNON 
 
@@ -127,14 +127,14 @@ Algy!
 
 ALGERNON 
 
-[Stiffly.] I believe it is customary in good 
+[Stiffly.]I believe it is customary in good 
 society to take some slight refreshment at five 
 o'clock. Where have you been since last Thurs- 
 day? 
 
 JACK 
 
-[Sitting dorm on the sofa.] In the country. 
+[Sitting dorm on the sofa.]In the country. 
 
 ALGERNON 
 
@@ -142,7 +142,7 @@ What on earth do you do there ?
 
 JACK 
 
-[Pulling off his gloves.] When one is in town 
+[Pulling off his gloves.]When one is in town 
 one amuses oneself. When one is in the country 
 one amuses other people. It is excessively 
 boring. 
@@ -153,7 +153,7 @@ And who are the people you amuse ?
 
 JACK 
 
-[Airily.] Oh, neighbours, neighbours. 
+[Airily.]Oh, neighbours, neighbours. 
 
 ALGERNON 
 
@@ -166,7 +166,7 @@ Perfectly horrid! Never speak to one of
 them. 
 
 How immensely you must amuse them ! \Goes 
-over and takes sandwich.] By the way, Shropshire 
+over and takes sandwich.]By the way, Shropshire 
 is your county, is it not ? 
 
 JACK , 
@@ -241,9 +241,9 @@ Oh ! there is no use speculating on that subject.
 Divorces are made in Heaven [JACK puts out 
 
 his hand to take a sandwich. ALGERNON at once 
-interferes ] Please don't touch the cucumber 
+interferes ]Please don't touch the cucumber 
 sandwiches. They are ordered specially for 
-Aunt Augusta. [Takes one and eats it.] 
+Aunt Augusta. [Takes one and eats it.]
 
 JACK 
 
@@ -252,14 +252,14 @@ Well, you have been eating them all the time.
 ALGERNON 
 
 That is quite a different matter. She is my 
-aunt. [Takes plate from below.] Have some 
+aunt. [Takes plate from below.]Have some 
 bread and butter. The bread and butter is for 
 Gwendolen. Gwendolen is devoted to bread 
 and butter. 
 
 JACK 
 
-[Advancing to table and helping himself.] And 
+[Advancing to table and helping himself.]And 
 very good bread and butter it is too. 
 
 ALGERNON 
@@ -307,7 +307,7 @@ Cecily ! What on earth do you mean ? What
 do you mean, Algy, by Cecily ! I don't know 
 any one of the name of Cecily. 
 
-{Enter LANE.] 
+{Enter LANE.]
 
 ALGERNON 
 
@@ -317,7 +317,7 @@ here.
 
 LANE 
 
-Yes, sir. [LANE goes out.] 
+Yes, sir. [LANE goes out.]
 
 Do you mean to say you have had my cigarette 
 case all this time ? I wish to goodness you had 
@@ -337,19 +337,19 @@ There is no good offering a large reward now
 that the thing is found. 
 
 [Enter LANE with the cigarette case on a salver. 
-ALGERNON takes it at once. LANE goes out.] 
+ALGERNON takes it at once. LANE goes out.]
 
 ALGERNON 
 
 I think that is rather mean of you, Ernest, I 
-must say. [Opens case and examines it.] However, 
+must say. [Opens case and examines it.]However, 
 it makes no matter, for, now that I look at the 
 inscription inside, I find that the thing isn't yours 
 after alL 
 
 JACK 
 
-Of course it's mine. [Moving to him."] You 
+Of course it's mine. [Moving to him."]You 
 have seen me with it a hundred times, and you 
 have no right whatsoever to read what is written 
 
@@ -393,21 +393,21 @@ Algy.
 
 ALGERNON 
 
-[Retreating to back of sofa.] But why does she 
+[Retreating to back of sofa.]But why does she 
 call herself little Cecily if she is your aunt and 
-lives at Tunbridge Wells? [Reading.] 'From 
+lives at Tunbridge Wells? [Reading.]'From 
 little Cecily with her fondest love.' 
 
 JACK 
 
-[Moving to sofa and kneeling upon it.] My dear 
+[Moving to sofa and kneeling upon it.]My dear 
 fellow, what on earth is there in that? Some 
 aunts are tall, some aunts are not tall. That is 
 a matter that surely an aunt may be allowed to 
 decide for herself. You seem to think that every 
 aunt should be exactly like your aunt ! That is 
 absurd ! For Heaven's sake give me back my 
-cigarette case. [Follows ALGERNON round the room.] 
+cigarette case. [Follows ALGERNON round the room.]
 
 ALGERNON 
 
@@ -438,7 +438,7 @@ of them. [Taking it from case.} 'Mr. Ernest
 Worthing, B. 4, The Albany.' I '11 keep this as 
 a proof that your name is Ernest if ever you 
 attempt to deny it to me, or to Gwendolen, or 
-to any one else. [Puts the card in his pocket.] 
+to any one else. [Puts the card in his pocket.]
 
 JACK 
 
@@ -487,9 +487,9 @@ Well, produce my cigarette case first.
 
 ALGERNON 
 
-Here it is. [Hands cigarette case.] Now pro- 
+Here it is. [Hands cigarette case.]Now pro- 
 duce your explanation, and pray make it improb- 
-able. [Sits on sofa.] 
+able. [Sits on sofa.]
 
 JACK 
 
@@ -660,7 +660,7 @@ and two is none.
 
 JACK 
 
-[Sententiously.] That, my dear young friend, 
+[Sententiously.]That, my dear young friend, 
 is the theory that the corrupt French Drama 
 has been propounding for the last fifty years. 
 
@@ -679,7 +679,7 @@ ALGERNON
 My dear fellow, it isn't easy to be anything 
 nowadays. There's such a lot of beastly com- 
 petition about. [The sound of an electric bell is 
-heard.] Ah ! that must be Aunt Augusta. 
+heard.]Ah ! that must be Aunt Augusta. 
 Only relatives, or creditors, ever ring in that 
 Wagnerian manner. Now, if I get her out of 
 the way for ten minutes, so that you can have 
@@ -696,7 +696,7 @@ Yes, but you must be serious about it. I
 hate people who are not serious about meals. 
 It is so shallow of them. 
 
-[Enter LANK.] 
+[Enter LANK.]
 
 LANE 
 
@@ -704,7 +704,7 @@ Lady Bracknell and Miss Fairfax.
 
 [ALGERNON goes forward to meet them. Enter 
 
-LADY BRACKNELL and GWENDOLEN.] 
+LADY BRACKNELL and GWENDOLEN.]
 C 
 
 LADY BHACKNELL 
@@ -720,11 +720,11 @@ LADY BRACKNELL
 
 That '& not quite the same thing. In fact 
 the two things rarely go together. [Sees JACK 
-and bows to him with icy coldness.] 
+and bows to him with icy coldness.]
 
 ALGERNON 
 
-[To GWENDOLEN.] Dear me, you are smart ! 
+[To GWENDOLEN.]Dear me, you are smart ! 
 
 GWENDOLEN 
 
@@ -739,7 +739,7 @@ GWENDOLEN
 Oh ! I hope I am not that. It would leave 
 no room for developments, and I intend to 
 develop in many directions. [GWENDOLEN and 
-JACK tit down together in the corner.] 
+JACK tit down together in the corner.]
 
 LADY BRACKNELL 
 
@@ -752,7 +752,7 @@ I '11 have a cup of tea, and one of those nioe
 cucumber sandwiches you promised me. 
 
 Certainly, Aunt Augusta. [Goes over to tea- 
-table.] 
+table.]
 
 LADY BRACKNELL 
 
@@ -765,13 +765,13 @@ I am.
 
 ALGERNON 
 
-\Picking up empty plate in horror.] Good 
+\Picking up empty plate in horror.]Good 
 heavens ! Lane ! Why are there no cucumber 
 sandwiches ? I ordered them specially. 
 
 LANE 
 
-[Gravely.] There were no cucumbers in the 
+[Gravely.]There were no cucumbers in the 
 market this morning, sir. I went down twice. 
 
 ALGERNON 
@@ -788,7 +788,7 @@ That will do, Lane, thank you.
 
 LANE 
 
-Thank you, sir. [Goes out.] 
+Thank you, sir. [Goes out.]
 
 ALGERNON 
 
@@ -811,7 +811,7 @@ LADY BRACKNELk
 
 It certainly has changed its colour. From 
 what cause I, of course, cannot say. [ALGERNON 
-crosses and hands tea.] Thank you. I've quite 
+crosses and hands tea.]Thank you. I've quite 
 a treat for you to-night, Algernon. I am going 
 to send you down with Mary Farquhar. She 
 is such a nice woman, and so attentive to her 
@@ -825,7 +825,7 @@ after alL
 
 LADY BRACKNELL 
 
-[Frowning."] I hope not, Algernon. It would 
+[Frowning."]I hope not, Algernon. It would 
 put my table completely out. Your uncle would 
 have to dine upstairs. Fortunately he is accus- 
 tomed to that. 
@@ -836,7 +836,7 @@ It is a great bore, and, I need hardly say,
 a terrible disappointment to me, but the fact is 
 I have just had a telegram to say that my poor 
 friend Bunbury is very ill again. [Exchanges 
-glances with JACK.] They seem to think I should 
+glances with JACK.]They seem to think I should 
 be with him. 
 
 LADY BRACKNELL 
@@ -888,7 +888,7 @@ for a moment.
 LADY BRACKNELL 
 
 Thank you, Algernon. It is very thoughtful 
-of you. [Rising, and following ALGERNON.] I 'm 
+of you. [Rising, and following ALGERNON.]I 'm 
 sure the programme will be delightful, after 
 a few expurgations. French songs I cannot 
 possibly allow. People always seem to think 
@@ -903,7 +903,7 @@ GWENDOLEN
 Certainly, mamma, 
 
 [LADY BRACKNELL and ALGERNON go into the 
-music-room, GWENDOLEN remains behind.'] 
+music-room, GWENDOLEN remains behind.']
 
 JACK 
 
@@ -941,7 +941,7 @@ her about.
 
 JACK 
 
-[Nervously."] Miss Fairfax, ever since I met 
+[Nervously."]Miss Fairfax, ever since I met 
 you I have admired you more than any girl . . . 
 I have ever met since ... I met you. 
 
@@ -952,7 +952,7 @@ I often wish that in public, at any rate, you
 had been more demonstrative. For me you 
 have always had an irresistible fascination. 
 Even before I met you I was far from in- 
-different to you. [JACK looks at her in amazement.] 
+different to you. [JACK looks at her in amazement.]
 We live, as I hope you know, Mr Worthing, 
 in an age of ideals. The fact is constantly 
 mentioned in the more expensive monthly maga- 
@@ -999,7 +999,7 @@ love me then ?
 
 GWENDOLEN 
 
-[Glibly.] Ah ! that is clearly a metaphysical 
+[Glibly.]Ah ! that is clearly a metaphysical 
 speculation, and like most metaphysical specula- 
 tions has very little reference at all to the actual 
 facts of real life, as we know them. 
@@ -1051,7 +1051,7 @@ Married, Mr. Worthing?
 
 JACK 
 
-[Astounded.'] Well . . . surely. You know 
+[Astounded.']Well . . . surely. You know 
 that I love you, and you led me to believe, 
 Miss Fairfax, that you were not absolutely 
 indifferent to me. 
@@ -1096,7 +1096,7 @@ Yes, but you don't say it.
 JACK 
 
 Gwendolen, will you marry me ? [Goes on his 
-knees.] 
+knees.]
 
 GWENDOLEN 
 
@@ -1128,7 +1128,7 @@ recumbent posture. It is most indecorous.
 
 GWENDOLEN 
 
-Mamma ! [He tries to rise ; she restrains him."] 
+Mamma ! [He tries to rise ; she restrains him."]
 
 I must beg you to retire. This is no place for 
 you. Besides, Mr. Worthing has not quite 
@@ -1160,7 +1160,7 @@ the carriage.
 
 GWENDOLEN 
 
-[Reproachfully.'] Mamma ! 
+[Reproachfully.']Mamma ! 
 
 LADY BRACKNELL 
 
@@ -1168,21 +1168,21 @@ In the carriage, Gwendolen ! [GWENDOLEN goes
 to the door. She and JACK blow kisses to each other 
 behind LADY BRACKNELL'S back. LADY BRACKNELL 
 looks vaguely about as if she could not understand 
-what the noise was. Finally turns round.] Gwen- 
+what the noise was. Finally turns round.]Gwen- 
 dolen, the carriage ! 
 
 GWENDOLEN 
 
 Yes, mamma. [Goes out, looking back at 
 
-JACK.] 
+JACK.]
 
 LADY BRACKNELL 
 
-[Sitting down.] You can take a seat, Mr 
+[Sitting down.]You can take a seat, Mr 
 Worthing. 
 
-[Looks in her pocket for note-book and pencil.] 
+[Looks in her pocket for note-book and pencil.]
 
 JACK 
 
@@ -1190,7 +1190,7 @@ Thank you, Lady Bracknell, I prefer standing.
 
 LADY BRACKNELL 
 
-[Pencil and note-book in hand.] I feel bound to 
+[Pencil and note-book in hand.]I feel bound to 
 tell you that you are not down on my list of 
 
 eligible young men, although I have the same 
@@ -1225,7 +1225,7 @@ know?
 
 JACK 
 
-[After some hesitation.'] 1 know nothing, Lady 
+[After some hesitation.']1 know nothing, Lady 
 Bracknell. 
 
 LADY BRACKNELL 
@@ -1248,7 +1248,7 @@ Between seven and eight thousand a year.
 
 LADY BRACKNELL 
 
-[Makes a note in her book."] In land, or in 
+[Makes a note in her book."]In land, or in 
 investments ? 
 
 JACK 
@@ -1310,7 +1310,7 @@ JACK
 
 LADY BRACKNELL 
 
-[Shaking her head.] The unfashionable side. I 
+[Shaking her head.]The unfashionable side. I 
 thought there was something. However, that 
 could easily be altered. 
 
@@ -1320,7 +1320,7 @@ Do you mean the fashion, or the side ?
 
 LADY BRACKNELL 
 
-[Sternly.] Both, if necessary, I presume. What 
+[Sternly.]Both, if necessary, I presume. What 
 are your politics ? 
 
 JACK 
@@ -1379,7 +1379,7 @@ find you ?
 
 JACK 
 
-[Gravely.] In a hand-bag. 
+[Gravely.]In a hand-bag. 
 
 LADY BRACKNELL 
 
@@ -1387,7 +1387,7 @@ A hand-bag?
 
 JACK 
 
-[Very seriously.] Yes, Lady Bracknell. I was 
+[Very seriously.]Yes, Lady Bracknell. I was 
 in a hand-bag a somewhat large, black leather 
 hand-bag, with handles to it an ordinary hand- 
 bag in fact. 
@@ -1464,17 +1464,17 @@ into a cloak-room, and form an alliance with a
 parcel ? Good morning, Mr. Worthing ! 
 
 [LADY BRACKNELL sweeps out in majestic in- 
-dignation.] 
+dignation.]
 
 JACK 
 
 Good morning ! [ALGERNON, from the other 
 room, strikes up the Wedding March. JACK looks 
-perfectly furious, and goes to the cfoor.] For good 
+perfectly furious, and goes to the cfoor.]For good 
 ness' sake don't play that ghastly tune, Algyj 
 How idiotic you are ! 
 
-[The music stops and ALGERNON enters cheerily.'] 
+[The music stops and ALGERNON enters cheerily.']
 
 ALGERNON 
 
@@ -1524,7 +1524,7 @@ made for.
 JACK 
 
 Upon my word, if I thought that, I 'd shoot 
-myself. . . . [A pause.] You don't think there 
+myself. . . . [A pause.]You don't think there 
 is any chance of Gwendolen becoming like her 
 
 mother in about a hundred and fifty years, do 
@@ -1578,7 +1578,7 @@ the country ?
 
 JACK 
 
-[/ a very patronising manner.] My dear 
+[/ a very patronising manner.]My dear 
 fellow, the truth isn't quite the sort of thing one 
 tells to a nice, sweet, refined girl. What extra- 
 ordinary ideas you have about the way to behave 
@@ -1677,7 +1677,7 @@ know it is nearly seven ?
 
 JACK 
 
-[Irritably.'] Oh ! it always is nearly seven. 
+[Irritably.']Oh ! it always is nearly seven. 
 
 ALGERNON 
 
@@ -1729,13 +1729,13 @@ It is awfully hard work doing nothing. How-
 ever, I don't mind hard work where there is no 
 definite object of any kind. 
 
-[Enter LANE.] 
+[Enter LANE.]
 
 LANE 
 
 Miss Fairfax. 
 
-[Enter GWENDOLEN. LANE goes out.] 
+[Enter GWENDOLEN. LANE goes out.]
 
 ALGERNON 
 
@@ -1756,7 +1756,7 @@ GWENDOLEN
 Algy, you always adopt a strictly immoral 
 attitude towards life. You are not quite old 
 enough to do that. [ALGERNON retires to the 
-^replace.] 
+^replace.]
 
 JACK 
 
@@ -1798,7 +1798,7 @@ The Manor House, Woolton, Hertfordshire.
 
 [ALGERNON, who has been carefully listening, 
 smiles to himself, and writes the address on his shirt- 
-cuff. Then picks up the Railway Guide.] 
+cuff. Then picks up the Railway Guide.]
 
 GWENDOLEN 
 
@@ -1841,7 +1841,7 @@ GWENDOLEN
 Certainly. 
 JACK 
 
-[To LANE, rvho now enters.] I will see Miss 
+[To LANE, rvho now enters.]I will see Miss 
 Fairfax out. 
 
 LANE 
@@ -1850,7 +1850,7 @@ Yes, sir. [JACK and GWENDOLEN go off.]
 [LANE presents several letters on a salver to 
 ALGERNON. It is to be surmised that they are bills, 
 as ALGERNON, after looking at the envelopes, tears 
-them up.] 
+them up.]
 
 ALGERNON 
 
@@ -1876,7 +1876,7 @@ jacket, and all the Bunbury suits . . .
 
 LANE 
 
-Yes, sir. [Handing sherry.'] 
+Yes, sir. [Handing sherry.']
 
 ALGERNON 
 
@@ -1900,7 +1900,7 @@ JACK
 There f s a sensible, intellectual girl ! the only 
 girl I ever cared for in my life. [ALGERNON is 
 
-laughing immoderately.] What on earth are you 
+laughing immoderately.]What on earth are you 
 so amused at ? 
 
 ALGERNON 
