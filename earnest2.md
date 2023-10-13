@@ -14,6 +14,10 @@ permalink: /earnest2
     table {
         white-space: pre;
     }
+
+    .line {
+        text-align: center
+    }
 </style>
 
 <table id = "table">
@@ -23,13 +27,14 @@ permalink: /earnest2
     </tr>
     <tr>
         <td id="bruh"></td>
-        <td id="linetable"></td>
+        <td class="line" id="linetable"></td>
     </tr>
 </table>
 
 <script>
     var script = []
     var raw = ""
+    var helpme = ""
 
     function getScript() {
         fetch('{{site.baseurl}}/assets/earnest/act-i.txt')
@@ -47,23 +52,47 @@ permalink: /earnest2
     function setText() {
         console.log('run')
 
+        var lol = false
         var lineCount = 1
-        var helpme = ""
 
         document.getElementById('bruh').innerHTML = raw
 
         for (let i = 0; i < script.length; i ++) {
             var line = script[i]
+            console.log(line)
 
-            helpme += "\n"
+            if (line[0] == "[") {
+                if (!line.includes("]")) {
+                    if (i > 1) {
+                        if (script[i-2] != script[i-2].toUpperCase()) {
+                            console.log("lol activated")
+                            lol = true
+                        }
+                    }
+                    else {
+                        console.log("lol activated")
+                        lol = true
+                    }
+                    
+                }
 
-            if (line != "" || line != line.toUpperCase() || line[0] != "[") {
-                helpme += lineCount
-                lineCount ++
+                else {
+                    lol = false
+                }
+            }      
+
+            if (lol == true || line == "" || line == line.toUpperCase() || line[0] == "[" && line.substr(-1) == "]") {
+                helpme += "\n"
             }
 
             else {
-                helpme += "\n"
+                console.log('realline')
+                helpme += lineCount + "\n"
+                lineCount ++
+            }
+
+            if (line.includes("]")) {
+                lol = false
             }
         }
 
