@@ -3,5 +3,5 @@ layout: schedule
 title: Timebox
 permalink: /advanced_timebox
 course: csa
-units: "1,2"
+units: "1,2,3"
 ---
