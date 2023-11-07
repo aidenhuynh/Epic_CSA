@@ -158,4 +158,4 @@ document.addEventListener("DOMContentLoaded", (event) => {
     getWords()
     makeBoard("main")
     makeBoard('key')
-  });
+});
