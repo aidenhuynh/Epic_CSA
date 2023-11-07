@@ -1,0 +1,34 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    height: 30em;
+    width: 45em;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    height: 6em;
+    width: 45em;
+    justify-content: center;
+    align-items: center;
+}
+
+.data {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6em;
+    width: 9em;
+    cursor: pointer;
+    background-color: rgb(24,24,24);
+    user-select: none;
+}
+
+.data:hover {
+    filter: brightness(130%);
+    transition: all .2s
+}

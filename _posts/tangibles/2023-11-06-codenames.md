@@ -1,0 +1,19 @@
+---
+toc: true
+comments: true
+layout: post
+title: code names board game
+description: stickin out your gyatt for the rizzler
+courses: {csa: {week: 12}}
+type: tangibles
+---
+<link rel="stylesheet" href="{{site.baseurl}}/assets/codenames/styles.css">
+<script src="{{ site.baseurl }}/assets/codenames/script.js"></script>
+<div id="main" class="main">
+</div>
+<button onclick="generate()">Generate board</button>
+<button onclick="reset('main')">Reset colors</button>
+<button onclick="generateKey()">Generate key</button>
+<br><br><br><br><br>
+<div id="key" class="main">
+</div>
