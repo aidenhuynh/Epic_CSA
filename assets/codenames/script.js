@@ -96,7 +96,8 @@ function markTile(id) {
 function generateKey() {
     reset('key')
 
-    const wordCount = 11
+    // Should be an even number
+    const wordCount = 18
 
     var idList = []
 
@@ -107,7 +108,21 @@ function generateKey() {
             idList.push(num)
         }
     }
-    console.log(idList)
+
+    var first
+    var second
+
+    if (Math.floor(Math.random() * 2) == 0) {
+        first = "rgb(26, 100, 191)"
+        second = "rgb(150, 23, 23)"
+        alert("Red goes first")
+    }
+
+    else {
+        first = "rgb(150, 23, 23)"
+        second = "rgb(26, 100, 191)"
+        alert("Blue goes first")
+    }
 
     for (let i = 0; i < wordCount; i ++) {
         const tile = document.getElementById(idList[i] + "b")
@@ -116,12 +131,12 @@ function generateKey() {
             tile.style.backgroundColor = "rgb(255, 255, 255)"
         }
 
-        else if (i % 2 == 0) {
-            tile.style.backgroundColor = "rgb(26, 100, 191)"
+        else if (i % 2 == 1) {
+            tile.style.backgroundColor = first
         }
 
         else {
-            tile.style.backgroundColor = "rgb(150, 23, 23)"
+            tile.style.backgroundColor = second
         }
     }
 }
