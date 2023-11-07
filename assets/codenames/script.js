@@ -111,17 +111,19 @@ function generateKey() {
 
     var first
     var second
+    const text = document.getElementById('text')
+    text.style.backgroundColor = 'rgb(16, 18, 19)'
 
     if (Math.floor(Math.random() * 2) == 0) {
         first = "rgb(26, 100, 191)"
         second = "rgb(150, 23, 23)"
-        alert("Red goes first")
+        text.innerHTML =  "Red goes first"
     }
 
     else {
         first = "rgb(150, 23, 23)"
         second = "rgb(26, 100, 191)"
-        alert("Blue goes first")
+        text.innerHTML =  "Blue goes first"
     }
 
     for (let i = 0; i < wordCount; i ++) {

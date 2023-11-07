@@ -6,6 +6,7 @@
     background-color: black;
     justify-content: center;
     align-items: center;
+    font-family: "Trebuchet MS";
 }
 
 .row {
@@ -30,5 +31,43 @@
 
 .data:hover {
     filter: brightness(130%);
-    transition: all .2s
+    transition: all .2s;
+}
+
+button {
+    background: rgb(16, 18, 19);
+    background-size: contain;
+    height: 4em; 
+    width: 10em;
+    font-family: "Trebuchet MS";
+    color: white;
+    border: 0
+}
+
+button:hover {
+    filter: brightness(130%);
+    transition: all .2s;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    height: 4em;
+    width: 30em;
+    margin: auto;
+}
+
+.text {
+    height: 2em;
+    width: 15em;
+    margin: auto;
+    font-family: "Trebuchet MS";
+    color: white;
+    text-align: center;
+    background: none;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
 }
