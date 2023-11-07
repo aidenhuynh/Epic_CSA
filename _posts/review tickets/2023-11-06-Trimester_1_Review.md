@@ -35,6 +35,9 @@ features:
 
 5. Future plan is to polish frontend and continue with project until it is consumer-ready
 
+Additional features:
+- rewrite so it only adds to spotify queue when the song should start, so that we can remove songs from the queue or start playing other ones immediately.
+
 ### GitHub Analytics
 
 Overall:
