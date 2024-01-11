@@ -10,7 +10,7 @@ courses: {csa: {week: 18}}
 ## Review issue
 [Link to issue](https://github.com/nighthawkcoders/teacher_portfolio/issues/91#issuecomment-1884090358)
 
-### Table
+### Individual Table
 |  | Score, Grader Verification | Runtime | Extras | Key Indicators: Blog, GitHub File(s) and Key Commits |
 |---|---|---|---|---|
 | SASS hacks | [1.0/1.0 (our lesson)](https://docs.google.com/spreadsheets/d/1p122VMczx6xkuypKcVewBPM2EABhHuaTx8awjljMPvM/edit?usp=sharing) | [Lesson](https://toby-leeder.github.io/CSABlog/2023/04/28/P3M-SASSFundamentals_IPYNB_2_.html) |  | [Commit]() |
@@ -22,6 +22,10 @@ courses: {csa: {week: 18}}
 | CB Quiz | 32/39, 1.82/2.00 | [Blog](https://aidenhuynh.github.io/Epic_CSA/2023/12/21/MCQ_2015_IPYNB_2_.html) |  | [Commit](https://github.com/aidenhuynh/Epic_CSA/commit/d8df6fe53c6b45fa9c69b0e63ff2f95b6b656680) |
 |  |  |  |  |  |
 | Totals | Median Score: 0.9/1.0 | Number complete: 6| Extra effort count: 1 | Key commit count: 5 |
+
+### Team Table
+* [Link to table](https://github.com/nighthawkcoders/teacher_portfolio/issues/93#issuecomment-1883704592)
+* [Link to grades](https://docs.google.com/spreadsheets/u/3/d/1p122VMczx6xkuypKcVewBPM2EABhHuaTx8awjljMPvM/edit#gid=0)
 
 ### Reflection
 The main takeaway I got from this set of student lessons is the usefulness of certain libraries and the use of other resources to simplify coding. For example, jQuery can simplify the process of coding in JavaScript and HTML, and Thymeleaf can make testing backend-to-frontend interactions easier. However, I would have liked to learn more about CORS, because this caused us an insane amount of issues when working with Flask last year in CSP.
