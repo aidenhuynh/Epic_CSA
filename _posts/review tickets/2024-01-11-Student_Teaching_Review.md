@@ -2,8 +2,8 @@
 toc: true
 comments: true
 layout: post
-title: Trimester 1 Review
-description: Reflection and Tri-1
+title: Week 18 Review Ticket
+description: Reflection of progress and team teaching
 type: review
 courses: {csa: {week: 18}}
 ---
