@@ -8,20 +8,9 @@ type: review
 courses: {csa: {week: 18}}
 ---
 ## Review issue
-[Link to issue](https://github.com/nighthawkcoders/teacher_portfolio/issues/91#issuecomment-1884090358)
 
 ### Individual Table
-|  | Score, Grader Verification | Runtime | Extras | Key Indicators: Blog, GitHub File(s) and Key Commits |
-|---|---|---|---|---|
-| SASS hacks | [1.0/1.0 (our lesson)](https://docs.google.com/spreadsheets/d/1p122VMczx6xkuypKcVewBPM2EABhHuaTx8awjljMPvM/edit?usp=sharing) | [Lesson](https://toby-leeder.github.io/CSABlog/2023/04/28/P3M-SASSFundamentals_IPYNB_2_.html) |  | [Commit]() |
-| jQuery hacks | [0.95/1.0](https://docs.google.com/spreadsheets/d/1kKdOhjQyAFc68ozuBdOp9FHCDYT7GM70yunOggKFINY/edit#gid=0) | [Blog](https://aidenhuynh.github.io/Epic_CSA/2023/12/07/UX_jQuery_CRUD_lesson_IPYNB_2_.html) | "Advanced functional frontend" | [Commit](https://github.com/aidenhuynh/Epic_CSA/commit/c95aa09d41f2742e2c8dfa7ff94b4618d3345a5f) |
-| Thymeleaf hacks | [0.9/1.0](https://docs.google.com/spreadsheets/u/3/d/1kqVZiCARXp11RVbpnoZ2Qo9Hq0mkZvmDkygIg1x34ZQ/edit?usp=sharing) | [Blog](https://aidenhuynh.github.io/Epic_CSA/2023/12/12/FinalLesson_IPYNB_2_.html) |  | [Commit](https://github.com/aidenhuynh/Epic_CSA/commit/87822e866b95544b2d0eeadb18ce0ff786f3c1bd) |
-| SQL, Hashmap hacks | [0.8/1.0](https://docs.google.com/spreadsheets/d/1rXWx0g_0eQKZgMSBHMYZoEqFJO0GwV6UhFWv8dcqJZ8/edit?usp=sharing) | [Blog](https://aidenhuynh.github.io/Epic_CSA/2023/12/18/hashlesson_IPYNB_2_.html) |  | [Commit](https://github.com/aidenhuynh/Epic_CSA/commit/fb407a4912b4f4a8ea0715e7511f59d43ec8334f) |
-| JWT hacks | [0.9/1.0](https://docs.google.com/spreadsheets/d/11_qi9Xz2cef9dNzLfK_ipPO5CjmxADwnCmu8HSiTUQI/edit?usp=sharing) | [Blog](https://aidenhuynh.github.io/Epic_CSA/2023/12/19/JWTStudent_IPYNB_2_.html) |  | [Commit](https://github.com/aidenhuynh/Epic_CSA/commit/2e440d99f3a74121a4f1038115637ec0e52c120a) |
-| CORS, dotEnv, Exploits hacks | N/A |  |  | bruh! |
-| CB Quiz | 32/39, 1.82/2.00 | [Blog](https://aidenhuynh.github.io/Epic_CSA/2023/12/21/MCQ_2015_IPYNB_2_.html) |  | [Commit](https://github.com/aidenhuynh/Epic_CSA/commit/d8df6fe53c6b45fa9c69b0e63ff2f95b6b656680) |
-|  |  |  |  |  |
-| Totals | Median Score: 0.9/1.0 | Number complete: 6| Extra effort count: 1 | Key commit count: 5 |
+* [Link to issue](https://github.com/nighthawkcoders/teacher_portfolio/issues/91#issuecomment-1884090358)
 
 ### Team Table
 * [Link to table](https://github.com/nighthawkcoders/teacher_portfolio/issues/93#issuecomment-1883704592)
