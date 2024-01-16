@@ -59,6 +59,7 @@ This project was not great for me because I couldn't find a way to make it inter
 1. We started planning with a team meeting, in which we decided to follow an engineering process and find a problem to solve so that we knew we would be making something actually impactful
 2. Made a plan for teachers to interview, then took notes after some interviews
     - All on [this document](https://john-scc.github.io/jcc_frontend/2023/12/18/teachersurvey.html)
+    ![interview]({{site.baseurl}}/images/interview.png)
 3. Had another standing meeting to finalize planning
     - [Link to notes](https://github.com/John-sCC/jcc_frontend/issues/4)
 4. Decided on making a teacher resource website with table randomizers, stats visualizers, etc. to be able to satisfy the needs of the most teachers possible
