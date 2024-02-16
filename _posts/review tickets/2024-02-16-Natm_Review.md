@@ -27,18 +27,19 @@ courses: {csa: {week: 18}}
         * more vibrance
     - Colorblindness settings
 * Example images:
-![a](https://files.slack.com/files-pri/TRDESSQ3T-F06K4B8KDDH/1000002221.jpg)
-![a](https://files.slack.com/files-pri/TRDESSQ3T-F06JQ39GP71/img_0863.jpg)
+![a](https://i.ibb.co/2YYxWMJ/image.png)
+![a](https://i.ibb.co/23htq3d/image.png)
 
 ## Event Blog
 
 * CompSci Projects:
     - Ryan McWeeny and his team made a cool corn farming game, which is something we talked about back in trimester 1, so it's cool to see it coming to life.
-    ![corn](https://files.slack.com/files-tmb/TRDESSQ3T-F06K8MFMSD8-bc98ea9492/img_5806_720.jpg)
-    - I also saw many, many mario projects which were interesting as I don't know how they work. Also I thought Rachit's RIFT group had a cool concept but I got no pictures of these lol.
+    ![corn](https://i.ibb.co/449v4BS/image.png)
+    - I also saw many, many mario projects which were interesting as I don't know how they work. Also I thought Rachit's RIFT group had a cool concept.
+    ![aa](https://i.ibb.co/P90076H/image.png)
 * Other art:
     - In past Night at the Museums, I spent the majority of my time looking at CS projects, but this time I thought it might be nice to try and focus more on other arts
     - I saw a cool cinematography reel from Brooke Rosenberg, which I felt like making note of because I am the president of the Cinema Production club and its relevant or something
-    ![rosenberg](https://files.slack.com/files-tmb/TRDESSQ3T-F06KXF1LA56-bdd1907ca0/img_5809_720.jpg)
+    ![rosenberg](https://i.ibb.co/xmZpYjZ/image.png)
     - I also saw Duncan Engel's set design for Little Shop of Horrors, which wasn't used unfortunately but the set design still is really cool
-    ![engel](https://files.slack.com/files-tmb/TRDESSQ3T-F06K5PWBSMB-2fa52b4ccd/img_5814_720.jpg)
+    ![engel](https://i.ibb.co/n3vcrrx/image.png)
