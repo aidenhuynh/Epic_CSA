@@ -6,7 +6,6 @@ title: T2 Night at the Museum Reflection
 description: 
 type: review
 courses: {csa: {week: 25}}
-comments: true
 ---
 
 ## T2 Focus Planning
