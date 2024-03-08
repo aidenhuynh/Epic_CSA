@@ -88,3 +88,12 @@ I have also been managing our team review tickets and facilitating communication
    <li><a href="https://github.com/aidenhuynh?tab=overview&from=2024-02-01&to=2024-02-29">Link to analytics</a></li>
 </ul>
 <img src="https://github.com/John-sCC/jcc_frontend/assets/112529809/2003b16f-04ea-4e81-94ec-9bb1d7369a5d">
+
+## Future Plans
+
+Not sure what next week is looking like, but I assume we have 3 or 4 work days?
+
+1. Work on drag & drop
+2. Work on drag & drop
+3. Wireframes
+4. Review prep and team meeting
