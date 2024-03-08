@@ -82,4 +82,9 @@ I have been taking on the role of scrum master for two of the subteams, as there
 
 I have also been managing our team review tickets and facilitating communication through our Discord, where I send announcements regarding what Mr. Mortensen is looking for and where to put it (tickets)
 
-![]
+## Github Analytics:
+
+<ul>
+   <li><a href="https://github.com/aidenhuynh?tab=overview&from=2024-02-01&to=2024-02-29">Link to analytics</a></li>
+</ul>
+<img src="https://github.com/John-sCC/jcc_frontend/assets/112529809/2003b16f-04ea-4e81-94ec-9bb1d7369a5d">
