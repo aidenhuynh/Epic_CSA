@@ -94,6 +94,12 @@ function dragDrop(studentId) {
 * [Pull request](https://github.com/John-sCC/jcc_frontend/pull/45)
 * [Live Demo](https://john-scc.github.io/jcc_frontend/tablegenerator)
 
+### Wireframes
+
+Didn't spend too much time here, but I did work on a wireframe because they didn't look great.
+
+![wireframe](https://github.com/John-sCC/jcc_frontend/assets/112529809/059e6643-4bcd-4ad7-b4b2-f2a3c61b5e35)
+
 ## Team Management
 
 I have been trying to lead the class with FRQ 1 and make them do exceptional work by suggesting peer reviews in their lessons and making meeting plans for them, however, people are simply not following directions and trying to make things easy for themselves every time.
