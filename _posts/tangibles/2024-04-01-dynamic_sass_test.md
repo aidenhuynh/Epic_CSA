@@ -139,6 +139,20 @@ If we were to upscale this example with a bazillion indentations, we could proba
 }
 ```
 
+```js
+function switchClass() {
+        var div = document.getElementById('main')
+
+        if (div.className == "csse-light") {
+            div.className = "csse-dark"
+        }
+
+        else {
+            div.className = "csse-light"
+        }
+    }
+```
+
 <script>
     function switchClass() {
         var div = document.getElementById('main')
