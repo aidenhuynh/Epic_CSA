@@ -119,6 +119,26 @@ Only the td elements under main changed to green!
 </div>
 <button id = "switch" onclick="switchClass()">switch theme!</button>
 
+If we were to upscale this example with a bazillion indentations, we could probably change the whole site's theme!
+
+```scss
+.csse-light {
+        background-color: blue;
+
+        b {
+            color: purple;
+        }
+    }
+
+.csse-dark {
+    background-color: red;
+
+    b {
+        color: green;
+    }
+}
+```
+
 <script>
     function switchClass() {
         var div = document.getElementById('main')
