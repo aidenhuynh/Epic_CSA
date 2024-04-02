@@ -47,7 +47,7 @@ When writing HTML, elements are placed within each other to create child-parent 
 
 These child-parent relationships can also be seen in the code using indents. Notice how each ``<td>`` is within a ``<tr></tr>`` which are all within the ``<table></table>``.
 
-```HTML
+```html
 <table>
     <tr>
         <td>bam</td>
@@ -67,7 +67,7 @@ These child-parent relationships can also be seen in the code using indents. Not
 </table>
 ```
 
-Now for the scss code: This works the same as regular css in which you can choose to style elements based on their type or a "class."
+Now for the scss code: This works the same as regular css in which you can choose to style elements based on their type or a "class name"
 
 For example, consider the following code in a .scss file:
 
