@@ -5,7 +5,7 @@ layout: post
 title: Individual Review - Week 26
 description: Aiden Huynh, P1
 type: review
-courses: {csa: {week: 25}}
+courses: {csa: {week: 26}}
 ---
 ## Project Contributions
 
