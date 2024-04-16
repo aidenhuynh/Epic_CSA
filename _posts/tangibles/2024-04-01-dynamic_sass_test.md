@@ -73,6 +73,8 @@ For example, consider the following code in a .scss file:
 
 ```scss
 .main {
+    background-color: red;
+
     td {
         color: green;
     }
