@@ -17,9 +17,12 @@ image: images/logo.png
   <br>
   <br>
   <h2>Actually Important Stuff</h2>
-  <i>It's a time box!</i>
+  <i>Cool past projects!</i>
   <br>
-  {% include timebox.html %}
+  <ul>
+    <li><a href="https://classroomjukebox.com">Classroom Jukebox</a></li>
+    <li><a href="https://john-scc.github.io/jcc_frontend/">Nighthawk Resources</a></li>
+  </ul>
   <h2>List of my greatest accomplishments:</h2>
   <ul>
       <li>Making <a href="{{site.baseurl}}/">this blog</a></li>
